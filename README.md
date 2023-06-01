@@ -13,4 +13,10 @@
 - 👯 Let's collaborate on language technology development & media production, specifically for [West African languages](https://github.com/Niger-Volta-LTI) 
 - 💬 Ask me anything about `{speech, audio & music}` &times; `{production, processing, understanding, ML algorithms}`
 
+<details>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruohoruotsi&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+</p>
+</details>
 
