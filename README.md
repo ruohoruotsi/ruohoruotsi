@@ -9,7 +9,7 @@
 
 
 ---
-- 👯 I’m looking to collaborate on language technology development & media production for specifically [West African languages](https://github.com/Niger-Volta-LTI) 
-- 💬 Ask me anything about audio and speech {processing, understanding, ML} 
+- 👯 Let's collaborate on language technology development & media production for specifically [West African languages](https://github.com/Niger-Volta-LTI) 
+- 💬 Ask me anything about audio, music & speech {production, processing, understanding, ML algorithms} 
 
 
