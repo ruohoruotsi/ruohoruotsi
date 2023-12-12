@@ -5,8 +5,8 @@
 ![](https://github.com/ruohoruotsi/ruohoruotsi/blob/master/images/ad_header.png)
 -->
 
-- :notes: Discography: [Discogs](https://www.discogs.com/artist/326567-Ruoho-Ruotsi)
-- :neckbeard: Bibliography: [Google Scholar](https://scholar.google.com/citations?user=h1KyIt0AAAAJ&hl=en)
+- 🎶 Discography: [Discogs](https://www.discogs.com/artist/326567-Ruoho-Ruotsi)
+- 🤓 Bibliography: [Google Scholar](https://scholar.google.com/citations?user=h1KyIt0AAAAJ&hl=en)
 
 
 ---
